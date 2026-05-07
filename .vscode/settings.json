@@ -1,0 +1,8 @@
+﻿{
+  "markdown.preview.math.enabled": true,
+  "markdown-preview-enhanced.mathRenderingOption": "KaTeX",
+  "markdown-preview-enhanced.usePandocParser": false,
+  "markdown-preview-enhanced.enableScriptExecution": true,
+  "markdown-preview-enhanced.previewTheme": "github-light.css",
+  "markdown-preview-enhanced.codeBlockTheme": "github.css"
+}
