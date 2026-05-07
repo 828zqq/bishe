@@ -12,6 +12,9 @@ Current thesis working files:
 - `thesis/materials.md`: extracted writing materials and chapter mapping.
 - `thesis/format_checklist.md`: format checklist based on college requirements.
 - `thesis/第3章_仿真系统研究与对中算法测试.md`: existing chapter 3 draft.
+- `thesis/chapters/`: editable chapter-by-chapter drafts.
+- `thesis/references.md`: reference list for the thesis draft.
+- `thesis/assemble_thesis.py`: assembles chapter files into `thesis/毕业论文.md`.
 
 Source code and raw archives are stored outside `docs/`:
 
